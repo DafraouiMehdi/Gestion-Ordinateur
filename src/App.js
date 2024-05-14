@@ -1,11 +1,35 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
+// import './App.css';
+// import Navigate from './Ordinateur/Navigate';
+// import ContextName from './Ordinateur/UseContextPro';
+// import { Home } from './Tpnavigation/Home';
+// import ContextTp from './Ordinateur/UseContextPro';
+// import AjouterOrdinateur from './Ordinateur/AjouterOrdinateur';
+// import ListOrd from './Ordinateur/ListOrd';
+// import Navigabiliter from './Tpnavigation/Navigate';
+// import { InfoContext } from './Tpnavigation/Contact';
+// import Name from './Testing/Name';
+
+// function App() {
+//   return (
+
+//     // <Navigabiliter />
+
+//     <Navigate />
+
+//   );
+// }
+
+// export default App;
+
+
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -23,3 +47,5 @@ function App() {
 }
 
 export default App;
+
+
